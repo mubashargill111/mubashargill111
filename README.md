@@ -1,16 +1,34 @@
-## Hi there 👋
+# Muhammad Mubashar
 
-<!--
-**mubashargill111/mubashargill111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Engineering Student
 
-Here are some ideas to get you started:
+Hi! I'm Muhammad Mubashar, a Software Engineering student interested in
+software development, web development, databases, and financial markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- C#
+- C++
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Object-Oriented Programming
+
+### 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Software Engineering
+- Database Systems
+- Web Development
+
+### 🚀 Projects
+
+- SmartRide – Ride Hailing System
+- ProBid – Proposal & Bidding Platform
+- Life-Link – Blood Donation System
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/mubashargill111
