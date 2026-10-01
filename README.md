@@ -16,19 +16,27 @@ I am a Software Engineering student with an interest in software development, we
 | Other | OOP, Data Structures, Database Design |
 
 ## Featured Projects
-
+e
 ### ProBid – Proposal & Bidding Platform
 
-A web-based proposal and bidding platform designed to connect clients and vendors. Built with HTML, CSS, Bootstrap, and JavaScript, with features including login/register, proposals, vendor pages, pricing, and dashboard functionality.
+A web-based proposal and bidding platform designed to connect clients and vendors. It includes login/register, proposals, vendor pages, pricing, and dashboard functionality.
 
 ### SmartRide – Ride Hailing System
 
-A desktop-based ride-hailing application inspired by modern ride-sharing platforms. The system includes rider and driver modes, authentication, vehicle registration, admin functionality, and database integration using C#, OOP, SQL Server, and .NET.
+A desktop-based ride-hailing application developed using C#, OOP, .NET, and SQL Server. It includes rider and driver modes, authentication, vehicle registration, and admin functionality.
 
 ### Life-Link – Smart Blood Donation System
 
-A Python-based blood donation management system designed to manage donor information and provide an interactive system for connecting donors with blood requirements.
+A Python-based blood donation management system designed to manage donor information and connect donors with blood requirements.
 
-### 📫 Connect With Me
+## Education
 
-- GitHub: https://github.com/mubashargill111
+**BS Software Engineering**  
+University of Engineering and Technology (UET), Institute of Computer Science (ICS)  
+2023–2025
+
+## Contact
+
+- Email: mubashargill13@gmail.com
+- LinkedIn: [Muhammad Mubashar](https://www.linkedin.com/in/muhammad-mubashar-337199404?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- GitHub: [mubashargill111](https://github.com/mubashargill111)
