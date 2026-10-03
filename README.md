@@ -34,6 +34,7 @@ A Python-based blood donation management system designed to manage donor informa
 **BS Software Engineering**  
 University of Engineering and Technology (UET), Institute of Computer Science (ICS)  
 2023–2025
+Rangers Public School 2021-2023
 
 ## Contact
 
